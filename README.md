@@ -18,8 +18,6 @@ This is a straightforward web application for task management. The ToDoList app 
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues and submit pull requests to help enhance this project.
+Contributions are welcome! Feel free to open issues and submit pull requests to help enhance this project.🤗
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
